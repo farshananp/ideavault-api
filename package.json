@@ -1,7 +1,7 @@
 {
-    "name": "ideavault-api",
+    "name": "ideavaultserver",
     "version": "1.0.0",
-    "description": "IdeaVault backend API",
+    "description": "IdeaVault backend",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -9,5 +9,8 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "type": "module"
+    "type": "commonjs",
+    "dependencies": {
+        "json-server": "^0.17.4"
+    }
 }
