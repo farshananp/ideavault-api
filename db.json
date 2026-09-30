@@ -1,0 +1,344 @@
+{
+  "ideas": [
+    {
+      "title": "AI Study Planner",
+      "category": "Education",
+      "priority": "High",
+      "status": "Completed",
+      "description": "An application that helps students organize subjects, create study schedules, track learning progress, and manage their daily study activities.",
+      "technologies": [
+        "React",
+        "Bootstrap",
+        "JavaScript",
+        "Node.js",
+        "MongoDB"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "title": "Define the idea",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "title": "Plan features",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Design UI",
+          "completed": true
+        },
+        {
+          "id": 4,
+          "title": "Set up project",
+          "completed": true
+        },
+        {
+          "id": 5,
+          "title": "Develop frontend",
+          "completed": true
+        },
+        {
+          "id": 6,
+          "title": "Develop backend/API",
+          "completed": true
+        },
+        {
+          "id": 7,
+          "title": "Connect frontend and backend",
+          "completed": true
+        },
+        {
+          "id": 8,
+          "title": "Test the application",
+          "completed": true
+        },
+        {
+          "id": 9,
+          "title": "Fix bugs",
+          "completed": true
+        },
+        {
+          "id": 10,
+          "title": "Deploy the application",
+          "completed": true
+        }
+      ],
+      "important": true,
+      "id": 3
+    },
+    {
+      "title": "Campus Event Manager",
+      "category": "College",
+      "priority": "Medium",
+      "status": "Building",
+      "description": "A platform for managing college events where students can view upcoming events, register for programs, and receive important event information.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "Firebase"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "title": "Define the idea",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "title": "Plan features",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Design UI",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Set up project",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Develop frontend",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Develop backend/API",
+          "completed": false
+        },
+        {
+          "id": 7,
+          "title": "Connect frontend and backend",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "title": "Test the application",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "title": "Fix bugs",
+          "completed": false
+        },
+        {
+          "id": 10,
+          "title": "Deploy the application",
+          "completed": false
+        }
+      ],
+      "important": false,
+      "id": 4
+    },
+    {
+      "title": "Personal Expense Tracker",
+      "category": "Finance",
+      "priority": "High",
+      "status": "Completed",
+      "description": "A simple application that helps users record daily expenses, organize spending into categories, and monitor their monthly spending.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "Node.js",
+        "MySQL"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "title": "Define the idea",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "title": "Plan features",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Design UI",
+          "completed": true
+        },
+        {
+          "id": 4,
+          "title": "Set up project",
+          "completed": true
+        },
+        {
+          "id": 5,
+          "title": "Develop frontend",
+          "completed": true
+        },
+        {
+          "id": 6,
+          "title": "Develop backend/API",
+          "completed": true
+        },
+        {
+          "id": 7,
+          "title": "Connect frontend and backend",
+          "completed": true
+        },
+        {
+          "id": 8,
+          "title": "Test the application",
+          "completed": true
+        },
+        {
+          "id": 9,
+          "title": "Fix bugs",
+          "completed": true
+        },
+        {
+          "id": 10,
+          "title": "Deploy the application",
+          "completed": true
+        }
+      ],
+      "important": true,
+      "id": 5
+    },
+    {
+      "title": "Recipe Finder",
+      "category": "Food",
+      "priority": "Low",
+      "status": "Building",
+      "description": "A recipe discovery application that allows users to search for recipes and view ingredients and preparation information.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Bootstrap"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "title": "Define the idea",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "title": "Plan features",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "title": "Design UI",
+          "completed": true
+        },
+        {
+          "id": 4,
+          "title": "Set up project",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Develop frontend",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Develop backend/API",
+          "completed": false
+        },
+        {
+          "id": 7,
+          "title": "Connect frontend and backend",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "title": "Test the application",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "title": "Fix bugs",
+          "completed": false
+        },
+        {
+          "id": 10,
+          "title": "Deploy the application",
+          "completed": false
+        }
+      ],
+      "important": false,
+      "id": 6
+    },
+    {
+      "title": "Local Service Finder",
+      "category": "Services",
+      "priority": "High",
+      "status": "Planning",
+      "description": "A platform that helps users find useful local services such as repair, cleaning, tutoring, and other service providers.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "MySQL",
+        "Express.js"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "title": "Define the idea",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Plan features",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Design UI",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "Set up project",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Develop frontend",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Develop backend/API",
+          "completed": false
+        },
+        {
+          "id": 7,
+          "title": "Connect frontend and backend",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "title": "Test the application",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "title": "Fix bugs",
+          "completed": false
+        },
+        {
+          "id": 10,
+          "title": "Deploy the application",
+          "completed": false
+        }
+      ],
+      "important": false,
+      "id": 7
+    }
+  ],
+  "categories": []
+}
